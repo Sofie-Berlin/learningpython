@@ -1,2 +1,3 @@
-print(input())
+import sys
+print(sys.argv)
 
