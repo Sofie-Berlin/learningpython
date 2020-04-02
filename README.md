@@ -1,1 +1,1 @@
-# return_filename listet die Dateien auf, die sich in einem directory befinden  
+# python return_filename.py ENTER <Filename> ENTER gibt den Filename aus
