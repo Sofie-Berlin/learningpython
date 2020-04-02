@@ -1,1 +1,1 @@
-# python return_filename.py "Filename" ENTER gibt den Filename aus
+# show_content_1 fordert zur Eingabe des Pfads auf, bei show_content_2 muss der Pfad zur Datei als Argument mitgegeben werden.
