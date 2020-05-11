@@ -2,11 +2,11 @@ import psycopg2
 from config import config
 
 
-def create_tables(table_name):
+def create_tables(tablename):
     commands = (
         
         """
-        CREATE TABLE """ + table_name + """ (
+        CREATE TABLE """ + tablename + """ (
             id text,
             name text
         )
