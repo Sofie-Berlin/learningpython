@@ -1,1 +1,0 @@
-# python return_filename.py "Filename" ENTER gibt den Filename aus
