@@ -1,1 +1,0 @@
-# show_content_1 fordert zur Eingabe des Pfads auf, bei show_content_2 muss der Pfad zur Datei als Argument mitgegeben werden.
